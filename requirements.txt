@@ -299,7 +299,7 @@ marshmallow==3.26.1
     # via dataclasses-json
 matplotlib-inline==0.1.7
     # via ipython
-mcp==1.9.3
+mcp==1.10.0
     # via
     #   agents (pyproject.toml)
     #   autogen-ext
